@@ -2,7 +2,7 @@
 <h3 align="center">A passionate WEB Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin999989&label=Profile%20views&color=0e75b6&style=flat" alt="nithin999989" /> </p>
-
+[![An image of @nithin9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nithin9)](https://holopin.io/@nithin9)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithin999989" alt="nithin999989" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
