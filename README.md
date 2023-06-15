@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm N S R NITHIN</h1>
+<h1 align="center">Hi 👋, I'm M N S R NITHIN</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 <img src="https://www.holopin.me/nithin9"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin999989&label=Profile%20views&color=0e75b6&style=flat" alt="nithin999989" /> </p>
